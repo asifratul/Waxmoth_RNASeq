@@ -5,6 +5,16 @@ This repository contains the analysis scripts used in the manuscript:
 
 **Transcriptomic analyses of labial glands and gut tissue from two wax moths, *Achroia grisella* and *Galleria mellonella***
 
+## Authors
+
+**Reginald Young¹**, **Khandaker Asif Ahmed²**, **Leon Court¹**,  
+**Rahul Rane³**, **Tom Walsh¹**, **Gunjan Pandey¹***  
+
+¹ CSIRO Environment, Acton, ACT 2601, Australia  
+² CSIRO Australian Animal Health Laboratory, Geelong, VIC 3220, Australia  
+³ CSIRO Health and Biosecurity, Parkville, VIC 3052, Australia  
+
+\* Corresponding author: Gunjan Pandey (gunjan.pandey@csiro.au)
 ---
 
 ## Scripts
@@ -62,7 +72,7 @@ The script:
 ² CSIRO Australian Animal Health Laboratory, Geelong, VIC 3220, Australia  
 ³ CSIRO Health and Biosecurity, Parkville, VIC 3052, Australia  
 
-\* Corresponding author
+\* Corresponding author: Gunjan Pandey (gunjan.pandey@csiro.au)
 
 ---
 
