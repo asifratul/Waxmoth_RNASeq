@@ -1,12 +1,8 @@
 # Waxmoth_RNASeq
-Transcriptomic differential expression and functional enrichment analyses of labial glands, fat body and gut tissues in Achroia grisella and Galleria mellonella
 
 This repository contains the analysis scripts used in the manuscript:
 
-**Transcriptomic analyses of labial glands and gut tissue from two wax moths, *Achroia grisella* and *Galleria mellonella***
-
-## Authors
-
+**Transcriptomic analyses of labial glands and gut tissues from two wax moths, *Achroia grisella* and *Galleria mellonella***
 **Reginald Young¹**, **Khandaker Asif Ahmed²**, **Leon Court¹**, **Rahul Rane³**, **Tom Walsh¹**, **Gunjan Pandey¹***  
 
 ¹ CSIRO Environment, Acton, ACT 2601, Australia  
