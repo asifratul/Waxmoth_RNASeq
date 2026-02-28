@@ -7,16 +7,13 @@ This repository contains the analysis scripts used in the manuscript:
 
 ## Authors
 
-**Reginald Young¹**, **Khandaker Asif Ahmed²**, **Leon Court¹**,  
-**Rahul Rane³**, **Tom Walsh¹**, **Gunjan Pandey¹***  
+**Reginald Young¹**, **Khandaker Asif Ahmed²**, **Leon Court¹**, **Rahul Rane³**, **Tom Walsh¹**, **Gunjan Pandey¹***  
 
 ¹ CSIRO Environment, Acton, ACT 2601, Australia  
-² CSIRO Australian Animal Health Laboratory, Geelong, VIC 3220, Australia  
+² CSIRO Agriculture and Food, Acton, ACT 2601, Australia  
 ³ CSIRO Health and Biosecurity, Parkville, VIC 3052, Australia  
 
-\* Corresponding author: Gunjan Pandey (gunjan.pandey@csiro.au)
 ---
-
 ## Scripts
 
 ### 1. `DEG_analysis_Overall.R`
@@ -60,19 +57,6 @@ The script:
 - Generates TERM2NAME and TERM2GENE tables
 - Runs ORA using DESeq2 DEG outputs
 - Writes enrichment result tables per comparison
-
----
-
-## Authors
-
-**Reginald Young¹**, **Khandaker Asif Ahmed²**, **Leon Court¹**,  
-**Rahul Rane³**, **Tom Walsh¹**, **Gunjan Pandey¹***  
-
-¹ CSIRO Environment, Acton, ACT 2601, Australia  
-² CSIRO Australian Animal Health Laboratory, Geelong, VIC 3220, Australia  
-³ CSIRO Health and Biosecurity, Parkville, VIC 3052, Australia  
-
-\* Corresponding author: Gunjan Pandey (gunjan.pandey@csiro.au)
 
 ---
 
